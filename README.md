@@ -15,6 +15,7 @@ Install the tools we want:
 * Interactive zero knowledge 3-colorability demonstration
 * Docker
 * ZoKrates
+* Web3
 
 ## Test
 `cd` to your project file then run:
